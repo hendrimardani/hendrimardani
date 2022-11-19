@@ -39,6 +39,10 @@
 2. [Machine learning midle level](https://www.dicoding.com/certificates/1RXYMGKY1XVM)
 3. [Machine learning advance level](https://www.dicoding.com/certificates/07Z6GLN52XQR)
 
+### Course followed Me
+
+[Course list](https://www.dicoding.com/users/hendrimardani/academies)
+
 ### 📫 &nbsp; How to reach me
 
 <a href="https://www.linkedin.com/in/hendri-mardani-1b6ba61a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
