@@ -25,12 +25,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![Tensorflow](https://img.shields.io/badge/tensorflow%20-%23150458.svg?&style=flat&logo=tensorflow&logoColor=orange)
-![Keras](https://img.shields.io/badge/keras%20-%23150458.svg?&style=flat&logo=keras&logoColor=red)
+![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%23150458.svg?&style=flat&logo=tensorflow&logoColor=orange)
+![Keras](https://img.shields.io/badge/Keras%20-%23150458.svg?&style=flat&logo=keras&logoColor=red)
 ![PowerShell](https://img.shields.io/badge/PowerShell%20-%23150458.svg?&style=flat&logo=powershell&logoColor=while)
-![Keras](https://img.shields.io/badge/matplotlib%20-%23150458.svg?&style=flat&logo=Matplotlib&logoColor=while)
+![Keras](https://img.shields.io/badge/Matplotlib%20-%23150458.svg?&style=flat&logo=Matplotlib&logoColor=while)
 
 ### My Portofolio Machine Learning
 
