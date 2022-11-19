@@ -41,7 +41,7 @@
 
 ### Course followed Me
 
-[Course list](https://www.dicoding.com/users/hendrimardani/academies)
+* [Course list](https://www.dicoding.com/users/hendrimardani/academies)
 
 ### 📫 &nbsp; How to reach me
 
