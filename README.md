@@ -28,6 +28,7 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/tensorflow%20-%23150458.svg?&style=flat&logo=tensorflow&logoColor=orange)
+![Keras](https://img.shields.io/badge/keras%20-%23150458.svg?&style=flat&logo=tensorflow&logoColor=orange)
 
 ### My Portofolio Machine Learning
 
