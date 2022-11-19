@@ -28,7 +28,7 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/tensorflow%20-%23150458.svg?&style=flat&logo=tensorflow&logoColor=orange)
-![Keras](https://img.shields.io/badge/keras%20-%23150458.svg?&style=flat&logo=keras&logoColor=orange)
+![Keras](https://img.shields.io/badge/keras%20-%23150458.svg?&style=flat&logo=keras&logoColor=red)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
