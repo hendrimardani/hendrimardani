@@ -32,7 +32,7 @@
 
 1. [Machine learning beginner level](https://www.dicoding.com/certificates/6RPND0QM5Z2M)
 2. [Machine learning midle level](https://www.dicoding.com/certificates/1RXYMGKY1XVM)
-3. [Machine learning advance](https://www.dicoding.com/certificates/07Z6GLN52XQR)
+3. [Machine learning advance level](https://www.dicoding.com/certificates/07Z6GLN52XQR)
 
 ### 📫 &nbsp; How to reach me
 
