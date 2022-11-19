@@ -29,6 +29,7 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/tensorflow%20-%23150458.svg?&style=flat&logo=tensorflow&logoColor=orange)
 ![Keras](https://img.shields.io/badge/keras%20-%23150458.svg?&style=flat&logo=keras&logoColor=orange)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### My Portofolio Machine Learning
 
