@@ -30,7 +30,7 @@
 
 ### My Portofolio
 
-
+1. [Linear Regression](https://github.com/hendrimardani/Linear_Regression)
 
 ### Certificate
 
