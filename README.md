@@ -16,7 +16,7 @@
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at hendrimardani290301@gmail.com. I'll try to respond as soon as possible!
 
-### 🛠 &nbsp;Skill below
+### 🛠 &nbsp;Skill
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
@@ -27,6 +27,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+
+### Certificate
+
+1. [Machine learning beginner level](https://www.dicoding.com/certificates/6RPND0QM5Z2M)
+2. [Machine learning midle level](https://www.dicoding.com/certificates/1RXYMGKY1XVM)
+3. [Machine learning advance](https://www.dicoding.com/certificates/07Z6GLN52XQR)
 
 ### 📫 &nbsp; How to reach me
 
