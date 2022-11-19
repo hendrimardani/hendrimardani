@@ -14,7 +14,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
 ✍️ &nbsp;In my free time, I read a book and simulation processiing data machine learning as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at hendrimardani290301@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at hendrimardani290301@gmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Skill below
 
