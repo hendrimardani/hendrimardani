@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Machine learning developer.\
+💡 &nbsp;I'm a Machine learning developer.\
 💻 &nbsp;I'm currently performing research in Detection object the human.\
 🎓 &nbsp;I graduated form SMK Negeri 2 Tasikmalaya Since 2019 Technical Electronics.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
