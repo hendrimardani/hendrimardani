@@ -46,6 +46,7 @@
 ### Course followed Me
 
 * [Course list](https://www.dicoding.com/users/hendrimardani/academies)
+* [Open CV(Computer Vision)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7f66b22a-4e0a-4a32-beb6-c8bc2ad3c89d.pdf)
 
 ### 📫 &nbsp; How to reach me
 
