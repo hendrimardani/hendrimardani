@@ -42,11 +42,11 @@
 1. [Machine learning beginner level](https://www.dicoding.com/certificates/6RPND0QM5Z2M)
 2. [Machine learning midle level](https://www.dicoding.com/certificates/1RXYMGKY1XVM)
 3. [Machine learning advance level](https://www.dicoding.com/certificates/07Z6GLN52XQR)
+4. [Open CV(Computer Vision)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7f66b22a-4e0a-4a32-beb6-c8bc2ad3c89d.pdf)
 
 ### Course followed Me
 
 * [Course list](https://www.dicoding.com/users/hendrimardani/academies)
-* [Open CV(Computer Vision)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7f66b22a-4e0a-4a32-beb6-c8bc2ad3c89d.pdf)
 
 ### 📫 &nbsp; How to reach me
 
