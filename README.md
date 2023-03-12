@@ -37,6 +37,7 @@
 1. [Linear Regression](https://github.com/hendrimardani/Linear_Regression)
 2. [System Recomendations](https://github.com/hendrimardani/system_recomendations)
 3. [RL - MountainCar](https://github.com/hendrimardani/rl-mountaincar)
+4. [RL - Maze](https://github.com/hendrimardani/rl-maze)
 
 ### Certificate
 
