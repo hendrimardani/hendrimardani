@@ -38,6 +38,7 @@
 2. [System Recomendations](https://github.com/hendrimardani/system_recomendations)
 3. [RL - MountainCar](https://github.com/hendrimardani/rl-mountaincar)
 4. [RL - Maze](https://github.com/hendrimardani/rl-maze)
+5. [NLP - Text Detection](https://github.com/hendrimardani/nlp_text)
 
 ### Certificate
 
