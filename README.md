@@ -46,7 +46,7 @@
 2. [Machine learning midle level](https://www.dicoding.com/certificates/1RXYMGKY1XVM)
 3. [Machine learning advance level](https://www.dicoding.com/certificates/07Z6GLN52XQR)
 
-### Course followed Me
+### Course followed By Me
 
 * [Course List](https://www.dicoding.com/users/hendrimardani/academies)
 * [Course List 2](https://drive.google.com/drive/folders/1Jp4YTlOIxXHRXiGws2-JEdYKPG_ZO7J7?usp=share_link)
