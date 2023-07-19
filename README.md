@@ -39,6 +39,7 @@
 3. [RL - MountainCar](https://github.com/hendrimardani/rl-mountaincar)
 4. [RL - Maze](https://github.com/hendrimardani/rl-maze)
 5. [NLP - Text Detection](https://github.com/hendrimardani/nlp_text)
+6. [NLP - Summary Text(Penarik Kesimpulan)](https://github.com/hendrimardani/summary_text_ind)
 
 ### Certificate
 
