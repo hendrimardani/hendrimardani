@@ -40,6 +40,7 @@
 4. [RL - Maze](https://github.com/hendrimardani/rl-maze)
 5. [NLP - Text Detection](https://github.com/hendrimardani/nlp_text)
 6. [NLP - Summary Text Indonesia (Penarik Kesimpulan)](https://github.com/hendrimardani/summary_text_ind)
+7. [NLP - Question Answer Indonesian with Context (Tanya Jawab)](https://github.com/hendrimardani/question_answer_ind)
 
 ### Certificate
 
