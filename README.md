@@ -61,7 +61,7 @@
 <a href="https://www.instagram.com/hendri.mardani/"><img src="https://img.shields.io/badge/-@hendri.mardani_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;
 <a href="https://web.facebook.com/henz.voesther"><img src="https://img.shields.io/badge/Facebook-D14836?style=flat&logo=facebook&logoColor=white"/></a>
 
-### ✉️ &nbsp; Get token for login contact me:
+### ✉️ &nbsp; Other Contact
 <p>
     <a href="https://api.whatsapp.com/send?phone=6281388372075" target="_blank">
         <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c543.png" width="100" alt=""/>
