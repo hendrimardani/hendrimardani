@@ -43,9 +43,9 @@
 6. [NLP - Summary Text Indonesia (Penarik Kesimpulan)](https://github.com/hendrimardani/summary_text_ind)
 7. [NLP - Question Answer Indonesian with Context (Tanya Jawab)](https://github.com/hendrimardani/question_answer_ind)
 8. [Audio - Text to Speech Indonesian Sundanese](https://github.com/hendrimardani/text_to_speech_ind_sundanese)
-9. [DS - House Price Prediction](https://colab.research.google.com/drive/1bp1DT2_9gu9denH0Rj5E-3pgu-Qgh7Mq?usp=sharing)
-10. [DS - Smoking Drinking Problems Classification](https://colab.research.google.com/drive/1_3f4aSoEuWpJPS2kbjIYXfyNcqoraIQL)
-11. [DS - Chess Game Problems CLassification](https://colab.research.google.com/drive/1J-KhVRdroxb5fcCBenBaJmODYgKBxMEf)
+9. [DS - House Price Prediction and Classification Problems](https://colab.research.google.com/drive/1bp1DT2_9gu9denH0Rj5E-3pgu-Qgh7Mq?usp=sharing)
+10. [DS - Smoking Drinking Classification Problems](https://colab.research.google.com/drive/1_3f4aSoEuWpJPS2kbjIYXfyNcqoraIQL)
+11. [DS - Chess Game CLassification Problems](https://colab.research.google.com/drive/1J-KhVRdroxb5fcCBenBaJmODYgKBxMEf)
 
 ### Certificate
 
