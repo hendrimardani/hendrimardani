@@ -45,7 +45,7 @@
 8. [Audio - Text to Speech Indonesian Sundanese](https://github.com/hendrimardani/text_to_speech_ind_sundanese)
 9. [DS - House Price Prediction and Classification Problems](https://colab.research.google.com/drive/1bp1DT2_9gu9denH0Rj5E-3pgu-Qgh7Mq?usp=sharing)
 10. [DS - Smoking Drinking Classification Problems](https://colab.research.google.com/drive/1EhQ7DbAtJwBTC-b2SLJp9wT6UxrUtzhM)
-11. [DS - Chess Game CLassification Problems](https://colab.research.google.com/drive/1J-KhVRdroxb5fcCBenBaJmODYgKBxMEf)
+11. [DS - Chess Game Classification Problems](https://colab.research.google.com/drive/1J-KhVRdroxb5fcCBenBaJmODYgKBxMEf)
 
 ### Certificate
 
