@@ -46,6 +46,7 @@
 9. [DS - House Price Prediction and Classification Problems](https://colab.research.google.com/drive/1bp1DT2_9gu9denH0Rj5E-3pgu-Qgh7Mq?usp=sharing)
 10. [DS - Smoking Drinking Classification Problems](https://colab.research.google.com/drive/1EhQ7DbAtJwBTC-b2SLJp9wT6UxrUtzhM)
 11. [DS - Chess Game Classification Problems](https://colab.research.google.com/drive/1J-KhVRdroxb5fcCBenBaJmODYgKBxMEf)
+12. [Android - Artist Profile Indonesian using Kotlin](https://github.com/hendrimardani/artist_profile)
 
 ### Certificate
 
