@@ -47,6 +47,7 @@
 10. [DS - Smoking Drinking Classification Problems](https://colab.research.google.com/drive/1EhQ7DbAtJwBTC-b2SLJp9wT6UxrUtzhM)
 11. [DS - Chess Game Classification Problems](https://colab.research.google.com/drive/1J-KhVRdroxb5fcCBenBaJmODYgKBxMEf)
 12. [Android - Artist Profile Indonesian using Kotlin](https://github.com/hendrimardani/artist_profile)
+13. [DS - Churn Prediction Bank](https://github.com/hendrimardani/data_science_bank)
 
 ### Certificate
 
