@@ -12,8 +12,9 @@
 💻 &nbsp;I'm currently performing research in Detection object the human.\
 🎓 &nbsp;I graduated from SMK Negeri 2 Tasikmalaya Since 2019 Technical Electronics.\
 🎓 &nbsp;I'm studying at Bina Sarana Informatika University (Currently).\
+🎓 &nbsp;I'm studying information system at Bina Sarana Informatika University (Currently).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
-✍️ &nbsp;In my free time, I read a book and simulation processiing data machine learning as my hobbies.\
+✍️ &nbsp;In my free time, I read a book and simulation processing data machine learning as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at hendrimardani290301@gmail.com. I'll try to respond as soon as possible!
 
